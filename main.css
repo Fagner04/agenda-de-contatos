@@ -76,5 +76,6 @@ button {
 @media screen and (max-width: 700px){
      .container {
         width: 70%;
+        zoom: 0;
     }
 }
